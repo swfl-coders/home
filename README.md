@@ -1,4 +1,4 @@
-# Welcom to SWFL Coders Homepage
+# Welcome to SWFL Coders Homepage
 This was built on a likely rainy SW Florida Saturday with :heart: by some great people :)
 
 ## GIT & GitHub
