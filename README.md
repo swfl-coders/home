@@ -5,7 +5,7 @@ This was built on a likely rainy SW Florida Saturday with :heart: by some great 
 ### Rules
 - Don't `push` to master only `pull` from it
 - Branch names: lower-case with underscores separating words name it as close and brief to the feature you're creating like `script_folder` or simply `readme`
-- Commit messages: a sentance in present-tense with punctuation that gives a decent description of what was done. Something as simple as "Adds Readme file."
+- Commit messages: a sentence in present-tense with punctuation that gives a decent description of what was done. Something as simple as "Adds Readme file."
 
 ### Workflow
 _Remember, it's just a web page, we can fix anything. Go crazy and ship code!_
@@ -38,4 +38,6 @@ _Remember, it's just a web page, we can fix anything. Go crazy and ship code!_
 #### Move Code Around
 - `git pull`
 - `git push origin branch_name`
+
+Thank You!
 
